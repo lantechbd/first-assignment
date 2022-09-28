@@ -1,0 +1,77 @@
+    body{
+        margin: 0;
+    }
+    
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    src: url(fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(fonts/Roboto-Medium.ttf);
+}
+
+.menubar{
+    display: flex;
+    margin-left: 75%;
+    text-decoration: none;
+}
+
+.menu-item{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    font-family: Roboto-Medium;
+    text-decoration: none;
+}
+
+h1{
+    font-family: BebasNeue-Regular;
+    font-size: 70px;
+}
+
+.rob{
+    font-family: BebasNeue-Regular;
+    font-size: 70px;
+    color: #FF8367;
+    margin-top: -85px;
+}
+
+.hire-me{
+    background-color: #FF8367;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    color: aliceblue;
+    font-family: Roboto-Medium;
+}
+
+.rb-details{
+    text-align: justify;
+    font-size: 30px;
+    margin-top: -65px;
+    margin-bottom: 50px;
+    font-family: Roboto-Regular;
+}
+
+.section-rob{
+    display: flex;
+}
+
+.rb{
+    width: 50%;
+    float: left;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.rb img{
+    width: 100%;
+    padding-top: 80px;
+}
