@@ -17,6 +17,10 @@
     src: url(fonts/Roboto-Medium.ttf);
 }
 
+.section-menubar{
+    margin-right: 15%;
+}
+
 .menubar{
     display: flex;
     margin-left: 75%;
@@ -77,6 +81,69 @@ h1{
 }
 
 .section-etc{
-    margin-top: 40px;
+    margin-top: 80px;
     margin-left: 80px;
+}
+
+.email{
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+.password{
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+.checkbox{
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+.sec002{
+    display: flex;
+    margin-top: -80px;
+    margin-right: 50px;
+}
+
+.rb-2 img{
+    width: 100%;
+    float: left;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+
+.rb-3{
+    width: 100%;
+    float: left;
+    margin-right: 80px;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+
+.about{
+    margin-top: 110px;
+}
+
+.download-my-cv{
+    background-color: #FF8367;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    color: aliceblue;
+    font-family: Roboto-Medium;
+    margin-bottom: 100px;
+}
+
+.ft{
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Roboto-Medium;
+    background-color: gray;
+    margin-bottom: 0;
+    color: white;
+    margin-right: 0;
+    margin-left: 0;
 }
