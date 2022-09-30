@@ -67,6 +67,7 @@ h1{
 
 .section-rob{
     display: flex;
+    margin-top: -50px;
 }
 
 .rb{
@@ -138,13 +139,15 @@ h1{
 
 .ft{
     margin-top: 100px;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     font-family: Roboto-Medium;
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
     margin-bottom: 0;
     color: white;
     margin-right: 0;
     margin-left: 0;
     font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
