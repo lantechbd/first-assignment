@@ -1,0 +1,266 @@
+
+Adobe illustrator full course_Zero to Hero
+
+01 Module-1_Introduction
+
+    01. Why learn Illustrator
+
+    02. Changes to User Interface
+
+
+02 Module-2_Basics
+
+    01. Illustrator Documents
+
+    02. Artboards
+
+    03. Updated Artboards
+
+    04. Navigation
+
+    05. Working with Vectors
+
+    06. User Interface
+
+    07. Properties panel
+
+    08. Settings
+
+
+03 Module-3_Working with Objects
+
+    01. Basic Shapes
+
+    02. Transformations
+
+    03. Combining Shapes
+
+    04. Selection Techniques
+
+    05. Organising Objects
+
+    06. Aligning and Distributing Objects
+
+    07. Working Precisely
+
+    08. Exercises
+
+    
+04 Module-4_Appearance of Objects
+
+    01. Stroke settings
+
+    02. Swatches
+
+    03. Gradients
+
+    04. Appearance panel
+
+    05. Effects
+
+    06. Exercises
+
+    07. Appearance of Objects Quiz
+
+
+05 Module-5_Drawing
+
+    01. Basic Drawing Tools
+
+    02. Drawing Exercise
+
+    03. Coloring
+
+    04. Drawing assistance tools
+
+    05. Draw Inside
+
+    06. Pen Tool
+
+    07. Pen Tool exercise
+
+    08. Pen Tool alternatives
+
+    09. Curvature Tool
+
+    10. Distort and Transform tools
+
+    11. Symmetrical drawing
+
+    12. Concentric drawing techniques
+
+    13. Manual tracing exercise
+
+    14. Drawing Quiz
+
+
+06 Module-6_Brushes
+
+    01. Calligraphic Brushes
+
+    02. Scatter Brushes
+
+    03. Art Brushes
+
+    04. Bristle Brushes
+
+    05. Pattern Brushes
+
+    06. Image Brushes
+
+    07. Brushes Quiz
+
+
+07 Module-6_Images
+
+    01. CWorking with Images
+
+    02. Preparing simple images for tracing
+
+    03. Preparing complex images for tracing
+
+    04. Image Trace
+
+    05. Improving and Colouring traced images
+
+    06. Images Quiz
+
+04 Module-4_Appearance of Objects
+
+    01. Stroke settings
+
+    02. Swatches
+
+    03. Gradients
+
+    04. Appearance panel
+
+    05. Effects
+
+    06. Exercises
+
+    07. Appearance of Objects Quiz
+
+
+08 Module-8_Type
+
+    01. Character formatting
+
+    02. Paragraph formatting
+
+    03. Using Text styles
+
+    04. Fonts
+
+    05. Variable and SVG Fonts
+
+    06. Touch Type
+
+    07. Type on a Path
+
+    08. Type and Shapes
+
+    09. Warp Text
+
+    10. 3D Type
+
+    11. Create Outlines from Text
+
+    12. Image within Text
+
+    13. Type Exercise
+
+    14. Drawing Quiz
+
+    15. Type Quiz
+
+
+09 Module-9_Advanced Techniques
+
+    01. Introduction to Masking
+
+    02. Clipping Mask
+
+    03. Opacity Mask
+
+    04. Masking exercise
+
+    05. Recolor Artwork
+
+    06. Live Paint Bucket
+
+    07. Envelope Distort
+
+    08. Puppet Warp
+
+    09. Symbols
+
+    10. Symbol Tools
+
+    11. Graphs
+
+    12. Blending Objects
+
+    13. Creating Patterns
+
+    14. Refining Pattern Design
+
+    15. Gradient Mesh
+
+    16. Perspective Drawing
+
+    17. Advanced Techniques Quiz
+
+
+10 Module-10_Export and Integration
+
+    01. Saving work for Print
+
+    02. Saving work for Web
+
+    03. Export for Screens
+
+    04. Adobe Apps
+
+    05. Integration with Bridge
+
+    06. CC Libraries
+
+    07. Archiving Projects
+
+    08. Export and Integration Quiz
+
+
+11 Module-11_New Features
+
+    01. Simplify Path
+
+    02. Delete Anchor Point Tool update
+
+    03. Faster Effects
+
+    04. Recolor Freeform Gradients
+
+    05. Auto Spell Check
+
+    06. Background Save
+
+    07. Freeform Gradients
+
+    08. Global Edit
+
+    09. Enhanced visual font browsing
+
+    10. Viewing Improvements
+
+
+12 Module-12_Conclusion
+
+    01. Building Your Portfolio
+
+    02. Conclusion
+
+
+
+Packge Design
+Book Cover Design
