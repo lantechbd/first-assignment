@@ -1,12 +1,11 @@
 
-Adobe illustrator full course_Zero to Hero
+Adobe illustrator full course_0 to Hero
 
 01 Module-1_Introduction
 
     01. Why learn Illustrator
 
     02. Changes to User Interface
-
 
 02 Module-2_Basics
 
@@ -26,7 +25,6 @@ Adobe illustrator full course_Zero to Hero
 
     08. Settings
 
-
 03 Module-3_Working with Objects
 
     01. Basic Shapes
@@ -44,8 +42,7 @@ Adobe illustrator full course_Zero to Hero
     07. Working Precisely
 
     08. Exercises
-
-    
+ 
 04 Module-4_Appearance of Objects
 
     01. Stroke settings
@@ -61,7 +58,6 @@ Adobe illustrator full course_Zero to Hero
     06. Exercises
 
     07. Appearance of Objects Quiz
-
 
 05 Module-5_Drawing
 
@@ -93,7 +89,6 @@ Adobe illustrator full course_Zero to Hero
 
     14. Drawing Quiz
 
-
 06 Module-6_Brushes
 
     01. Calligraphic Brushes
@@ -109,7 +104,6 @@ Adobe illustrator full course_Zero to Hero
     06. Image Brushes
 
     07. Brushes Quiz
-
 
 07 Module-6_Images
 
@@ -140,7 +134,6 @@ Adobe illustrator full course_Zero to Hero
     06. Exercises
 
     07. Appearance of Objects Quiz
-
 
 08 Module-8_Type
 
@@ -173,7 +166,6 @@ Adobe illustrator full course_Zero to Hero
     14. Drawing Quiz
 
     15. Type Quiz
-
 
 09 Module-9_Advanced Techniques
 
@@ -211,7 +203,6 @@ Adobe illustrator full course_Zero to Hero
 
     17. Advanced Techniques Quiz
 
-
 10 Module-10_Export and Integration
 
     01. Saving work for Print
@@ -229,7 +220,6 @@ Adobe illustrator full course_Zero to Hero
     07. Archiving Projects
 
     08. Export and Integration Quiz
-
 
 11 Module-11_New Features
 
@@ -253,14 +243,8 @@ Adobe illustrator full course_Zero to Hero
 
     10. Viewing Improvements
 
-
 12 Module-12_Conclusion
 
     01. Building Your Portfolio
 
     02. Conclusion
-
-
-
-Packge Design
-Book Cover Design

@@ -3,18 +3,12 @@
     }
     
 @font-face {
-    font-family: 'BebasNeue-Regular';
-    src: url(fonts/BebasNeue-Regular.ttf);
-}
-
-@font-face {
     font-family: 'Roboto-Regular';
     src: url(fonts/Roboto-Regular.ttf);
-}
-
-@font-face {
     font-family: 'Roboto-Medium';
     src: url(fonts/Roboto-Medium.ttf);
+    font-family: 'BebasNeue-Regular';
+    src: url(fonts/BebasNeue-Regular.ttf);
 }
 
 .section-menubar{
@@ -84,6 +78,17 @@ h1{
 .section-etc{
     margin-top: 80px;
     margin-left: 80px;
+    padding-bottom: 150px;
+    display: flex;
+}
+
+input:focus{
+    font-size: 2em;
+    color: aqua;
+}
+
+a:visited{
+    color:none;
 }
 
 .email{
@@ -111,7 +116,6 @@ h1{
     width: 100%;
     float: left;
     margin-left: 80px;
-    margin-top: 150px;
 }
 
 .rb-3{
@@ -122,8 +126,22 @@ h1{
     padding-left: 100px;
 }
 
-.about{
-    margin-top: 110px;
+.rb-4{
+    width: 45%;
+    float: left;
+    border: 5px solid rgb(15, 85, 76);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.rb-5{
+    width: 55%;
+    float: left;
+    margin-left: 20px;
+    border: 5px solid rgb(15, 85, 76);
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 90px;
 }
 
 .download-my-cv{
@@ -135,6 +153,10 @@ h1{
     color: aliceblue;
     font-family: Roboto-Medium;
     margin-bottom: 100px;
+}
+
+.about{
+    margin-top: -10px;
 }
 
 .ft{
